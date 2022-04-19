@@ -1,8 +1,8 @@
 # ReadMe Generator
   ## Description 
-  
-  I WANT a README generator
-  ## Table of Contents 
+  I want to generate A high quility README that explains what you app does and why you use thwe tech taht you did
+ 
+ ## Table of Contents 
   
   * [Installation](#Installation)
   * [Usage](#Usage)
@@ -15,15 +15,13 @@
  
   ## Installation 
   
+  You will need to run "npm install inquirer" for the inquirer package.
+
+
   ## Usage 
   
-  Input Github
-  ## Collaboration 
+Clone my repository to your local machine, run "npm install inquirer" in the terminal, and then run "node index.js" to be prompted with questions that will generate your readme file.
   
-  undefined
-  ## Links 
-  
-  undefined
   ## License 
   
   Copyright <YEAR> <COPYRIGHT HOLDER>
@@ -35,5 +33,5 @@
   
   If you need to contact me for anything, below my email and Github accounts are linked:
    Github
-  https://github.com/undefined
+  https://github.com/moorejalen2800
  
