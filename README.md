@@ -2,6 +2,8 @@
 
 ReadMe app
 
+This is a command line based application that lets you automatically create a readme file with content after answering a few questions.
+
 
 # Description
 
@@ -9,13 +11,13 @@ I want to generate A high quility README that explains what you app does and why
 
 # Table of Contents
 
-Installation
-Usage
-Collaboration
-Links
-License
-Test
-Questions
+## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
 # Installation
 
