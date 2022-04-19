@@ -1,8 +1,11 @@
 ## ReadMe Generator
 
+ReadMe app
+
+
 # Description
 
-I want to generate A high quility README that explains what you app does and why you use thwe tech taht you did
+I want to generate A high quility README that explains what you app does and why you use the tech that you did
 
 # Table of Contents
 
