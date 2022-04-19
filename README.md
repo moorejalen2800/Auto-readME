@@ -37,7 +37,9 @@ undefined
 
 # Questions
 
-If you need to contact me for anything, below my email and Github accounts are linked: Github https://github.com/moorejalen2800
+If you need to contact me for anything, below my email and Github accounts are linked: 
+Github https://github.com/moorejalen2800
+Email  https://moorejalen2837@icloud.com
 
 # Demo
 
